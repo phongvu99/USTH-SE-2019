@@ -1,6 +1,6 @@
 # Fooradise - SE 2019
 
-<h1> Moved to [fooradise](https://github.com/phongvu99/fooradise) </h1>
+<h1> New Repo https://github.com/phongvu99/fooradise </h1>
 <h2> Version: 0.5 (As of April 27, 2019).</h2>
 
 <h3> How to use the project: </h3>
